@@ -13,7 +13,7 @@
             <TextBox Name="txtUsername" Background="Gray" Foreground="White" FontSize="14" AcceptsReturn="True"/>
             <Label Content="Password" Foreground="white"/>
             <TextBox Name="txtPassword" Background="Gray" Foreground="White" FontSize="14" AcceptsReturn="True"/>
-            <Button Name="btnSubmit" Content="Submit" Foreground="White" Width="60" Margin="10"/>
+            <Button Name="btnSubmit" Content="Submit" Foreground="White" Width="60" Margin="10" Click="BtnSubmit_Click"/>
         </StackPanel>
     </Border>
 </Window>
