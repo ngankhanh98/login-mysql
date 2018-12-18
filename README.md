@@ -1,4 +1,4 @@
-# login-mysql
+# Login with mySQL
 Create login app connected mySQL from remote access
 
 
@@ -14,4 +14,4 @@ MessageBox("Create connection succeeded");<br>
 MessageBox("admin") // because I want it to print out attribute "USERNAME" of the data receiving.
 
 ## 🔨 How to install
-Navigate to `login-installer`, download and run `login-mysql.msi`
+Navigate to `login-installer > Release`, download and run `login-installer.msi`
